@@ -18,7 +18,6 @@ March 27, 2026
 
 [View slides](presentations/2026_MSSISS_Yalei_Zhao_2026_3_27.pdf) · [Event page](https://sites.lsa.umich.edu/mssiss/past/mssiss-2022-homepage/presentations/#session-vi)
 
-
 ### *Sensitivity Analyses for Missing Not at Random Data in Body Donor Program Studies*
 2025 Senior Honors Thesis Symposium, University of Wisconsin-Madison
 April 11, 2025
@@ -32,6 +31,12 @@ April 11, 2025
 October 2, 2026  
 
 [View poster](posters/2026_Spatial_Biology_Symposium_Poster_Yalei_Zhao_2026_10_2.pdf) · [Event page](https://singlecellspatialanalysis.umich.edu/2026spatial-biology-symposium/)
+
+### *Sensitivity Analyses for Missing Not at Random Data in Body Donor Program Studies*
+2024 Wisconsin Chapter of the American Statistical Association (ASA) Poster Competition
+November 22, 2024
+
+[View poster](posters/2024_Thesis_Poster_2024_11_22.pdf)
 
 ## Awards
 ### *Trewartha Senior Honors Thesis Research Grant ($1,500)*
