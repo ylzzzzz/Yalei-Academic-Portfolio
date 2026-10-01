@@ -11,11 +11,11 @@ This repository contains my CV, research presentations, posters, and other acade
 
 ## Research Presentations
 
-### *Your Presentation Title*
+### *A Distance-Dependent Model for Spatial Cell–Cell Interactions*
 Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS)  
 March 27, 2026  
 
-[View slides](presentations/your-slide-file.pdf) · [Event page](https://sites.lsa.umich.edu/mssiss/past/mssiss-2022-homepage/presentations/#session-vi)
+[View slides](presentations/2026_MSSISS_Yalei_Zhao_2026_3_27.pdf) · [Event page](https://sites.lsa.umich.edu/mssiss/past/mssiss-2022-homepage/presentations/#session-vi)
 
 ## Posters
 
