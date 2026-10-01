@@ -35,4 +35,7 @@ October 2, 2026
 
 ## Awards
 ### *Trewartha Senior Honors Thesis Research Grant ($1,500)*
+University of Wisconsin-Madison
+2024-2025
+
 [View news](https://stat.wisc.edu/2025/01/13/statistics-major-yalei-zhao-wins-prestigious-undergraduate-thesis-award/)
