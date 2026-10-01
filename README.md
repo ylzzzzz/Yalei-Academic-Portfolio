@@ -31,9 +31,9 @@ January 2026 – June 2026
 
 Selected topics presented as part of lab learning and discussion:
 
-- **Lectures 2–3:** [Neural Networks as Universal Approximators & Training Part I](presentations/11-785_Lec_2-3.pdf)
-- **Lecture 19:** [Transformers and Newer Architectures](presentations/11-785_Lec_19.pdf)
-- **Lecture 24:** [Generative Adversarial Networks](presentations/11-785_Lec_24.pdf)
+- **Lectures 2–3:** [Neural Networks as Universal Approximators & Training Part I](presentations/11-785%20Lec%202-3.pdf)
+- **Lecture 19:** [Transformers and Newer Architectures](presentations/11-785%20Lec%2019.pdf)
+- **Lecture 24:** [Generative Adversarial Networks](presentations/11-785%20Lec%2024.pdf)
 
 ## Posters
 
