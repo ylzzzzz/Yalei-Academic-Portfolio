@@ -8,3 +8,4 @@ and other academic materials.
 - [CV](CV/)
 - [Research Presentations](presentations/)
 - [Posters](posters/)
+- [Senior Honors Thesis](https://minds.wisc.edu/items/8b070351-3e49-4a6f-a9c3-0f1a2cfca391)
