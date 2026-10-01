@@ -8,6 +8,7 @@ This repository contains my CV, research presentations, posters, and other acade
 - [Research Presentations](#research-presentations)
 - [Posters](#posters)
 - [Senior Honors Thesis](https://minds.wisc.edu/items/8b070351-3e49-4a6f-a9c3-0f1a2cfca391)
+- [Awards]
 
 ## Research Presentations
 
@@ -31,3 +32,7 @@ April 11, 2025
 October 2, 2026  
 
 [View poster](posters/2026_Spatial_Biology_Symposium_Poster_Yalei_Zhao_2026_10_2.pdf) · [Event page](https://singlecellspatialanalysis.umich.edu/2026spatial-biology-symposium/)
+
+## Awards
+### *Trewartha Senior Honors Thesis Research Grant ($1,500)*
+[View news](https://stat.wisc.edu/2025/01/13/statistics-major-yalei-zhao-wins-prestigious-undergraduate-thesis-award/)
