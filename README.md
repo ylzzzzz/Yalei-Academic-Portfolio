@@ -25,15 +25,15 @@ April 11, 2025 & April 25, 2025
 [View slides](presentations/2025_Senior_Honors_Thesis_Presentation_2025_4_11.pdf) · [Senior Honors Thesis Symposium page](https://honors.ls.wisc.edu/2025/04/23/2025-senior-honors-thesis-symposium-showcases-research-excellence/) · 
 [Undergraduate Symposium page](https://ugradsymposium.wisc.edu/wp-content/uploads/sites/454/2025/04/2025-Undergraduate-Symposium-Program.pdf)
 
-#### Deep Learning Methods Presentations (CMU 11-785)
+### *Deep Learning Methods Presentations (CMU 11-785)*
 Cable Lab, University of Michigan  
 January 2026 – June 2026  
 
 Selected topics presented as part of lab learning and discussion:
 
-- **Lectures 2–3:** [Neural Networks as Universal Approximators & Training Part I](presentations/117-85 Lec 2-3.pdf)
-- **Lecture 19:** [Transformers and Newer Architectures](presentations/117-85 Lec 19.pdf)
-- **Lecture 24:** [Generative Adversarial Networks](presentations/117-85 Lec 24.pdf)
+- **Lectures 2–3:** [Neural Networks as Universal Approximators & Training Part I](presentations/11-785_Lec_2-3.pdf)
+- **Lecture 19:** [Transformers and Newer Architectures](presentations/11-785_Lec_19.pdf)
+- **Lecture 24:** [Generative Adversarial Networks](presentations/11-785_Lec_24.pdf)
 
 ## Posters
 
