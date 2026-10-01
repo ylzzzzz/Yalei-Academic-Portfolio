@@ -23,7 +23,7 @@ March 27, 2026
 April 11, 2025 & April 25, 2025
 
 [View slides](presentations/2025_Senior_Honors_Thesis_Presentation_2025_4_11.pdf) · [Senior Honors Thesis Symposium page](https://honors.ls.wisc.edu/2025/04/23/2025-senior-honors-thesis-symposium-showcases-research-excellence/) · 
-[Undergraduate Symposium program](https://ugradsymposium.wisc.edu/wp-content/uploads/sites/454/2025/04/2025-Undergraduate-Symposium-Program.pdf)
+[Undergraduate Symposium page](https://ugradsymposium.wisc.edu/wp-content/uploads/sites/454/2025/04/2025-Undergraduate-Symposium-Program.pdf)
 
 ## Posters
 
