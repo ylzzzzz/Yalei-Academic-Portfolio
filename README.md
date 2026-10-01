@@ -43,4 +43,4 @@ November 22, 2024
 ### *Trewartha Senior Honors Thesis Research Grant ($1,500)*
 University of Wisconsin-Madison, 2024-2025
 
-[UW–Madison Statistics feature](https://stat.wisc.edu/2025/01/13/)
+[UW–Madison Statistics Department feature](https://stat.wisc.edu/2025/01/13/)
