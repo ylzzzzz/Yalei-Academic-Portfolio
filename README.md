@@ -19,8 +19,8 @@ March 27, 2026
 
 ## Posters
 
-### *Your Poster Title*
+### *Multiscale Model for Spatial Cell–Cell Interactions*
 2026 Spatial Biology Symposium  
-2026  
+October 2, 2026  
 
-[View poster](posters/your-poster-file.pdf)
+[View poster](posters/2026_Spatial_Biology_Symposium_Poster_Yalei_Zhao_2026_10_2.pdf) · [Event page](https://singlecellspatialanalysis.umich.edu/2026spatial-biology-symposium/)
