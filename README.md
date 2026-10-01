@@ -8,7 +8,7 @@ This repository contains my CV, research presentations, posters, and other acade
 - [Research Presentations](#research-presentations)
 - [Posters](#posters)
 - [Senior Honors Thesis](https://minds.wisc.edu/items/8b070351-3e49-4a6f-a9c3-0f1a2cfca391)
-- [Awards]
+- [Awards](#Awards)
 
 ## Research Presentations
 
