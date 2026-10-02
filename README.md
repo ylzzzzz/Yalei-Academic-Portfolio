@@ -47,7 +47,7 @@ October 2, 2026
 2024 Wisconsin Chapter of the American Statistical Association (ASA) Poster Competition  
 November 22, 2024
 
-[View poster](posters/2024_Thesis_Poster_2024_11_22.pdf)
+[View poster](posters/2024_Thesis_Poster_2024_11_22.pdf) · [Event page](https://community.amstat.org/wisconsinchapter/discussion/poster-session-friday-1122-5pm-at-uwmadison)
 
 ## Awards
 ### *Trewartha Senior Honors Thesis Research Grant ($1,500)*
